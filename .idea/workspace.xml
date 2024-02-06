@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93268da3-5a5e-4639-a95a-4e18fd05aa19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/file/tdd/AsciiFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/file/tdd/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/123.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/file/tdd/AsciiFileReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/123.txt" afterDir="false" />
+    <list default="true" id="93268da3-5a5e-4639-a95a-4e18fd05aa19" name="Changes" comment="Change to read and process Ascii file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +22,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "assignee": "mahesh-v-panchal",
+      "author": "mahesh-v-panchal"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mahesh-v-panchal",
+    "author": "mahesh-v-panchal"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4f1c149e-1a23-4f55-83c2-24f3497cab39" />
+        <option name="url" value="https://github.com/mahesh-v-panchal/FileProcessor.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -48,7 +59,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/M/IdeaProjects/FileProcessor/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/M/IdeaProjects/FileProcessor/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -155,6 +167,30 @@
       <option name="presentableId" value="Default" />
       <updated>1707234940663</updated>
     </task>
+    <task id="LOCAL-00001" summary="Change to read and process Ascii file">
+      <option name="closed" value="true" />
+      <created>1707252155016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707252155016</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change to read and process Ascii file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change to read and process Ascii file" />
   </component>
 </project>
