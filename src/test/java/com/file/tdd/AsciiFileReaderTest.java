@@ -20,7 +20,7 @@ public class AsciiFileReaderTest {
 
     @Test
     public void validateFileTest() {
-        boolean validFile = asciiFileReader.readAndProcessFile("src/test/resources/123.txt");
+        boolean validFile = asciiFileReader.readAndProcessFile("src/test/resources/input.txt");
         assertTrue(validFile);
     }
 
@@ -50,13 +50,13 @@ public class AsciiFileReaderTest {
 
     @Test
     public void isFileReadableCheck() {
-        boolean validFile = asciiFileReader.readAndProcessFile("src/test/resources/123.txt");
+        boolean validFile = asciiFileReader.readAndProcessFile("src/test/resources/input.txt");
         assertTrue(validFile);
     }
 
     @Test
     public void readFileRelativePath() {
-        File file = new File("src/test/resources/123.txt");
+        File file = new File("src/test/resources/input.txt");
         assertTrue(file.exists());
     }
 
